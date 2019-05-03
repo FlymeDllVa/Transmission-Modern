@@ -42,7 +42,7 @@
 /* Filter Bar Button -> tool tip
    Status bar transfer count
    Torrent table -> group row -> tooltip */
-"%@ transfers" = "%@ разд.";
+"%@ transfers" = "Количество раздач: %@";
 
 /* Inspector -> Activity tab -> have */
 "%@ verified" = "%@ проверено";
