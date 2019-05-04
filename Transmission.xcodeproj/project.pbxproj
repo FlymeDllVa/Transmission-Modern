@@ -2175,6 +2175,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
 			knownRegions = (
+				English,
 				en,
 				es,
 				fr,
@@ -3070,6 +3071,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "Transmission Modern";
 				SDKROOT = macosx;
 				STRIP_INSTALLED_PRODUCT = NO;
 			};
@@ -3215,6 +3217,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				OTHER_CFLAGS = "-DNDEBUG";
+				PRODUCT_NAME = "Transmission Modern";
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -3296,6 +3299,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "Transmission Modern";
 				SDKROOT = macosx;
 				STRIP_INSTALLED_PRODUCT = NO;
 			};
